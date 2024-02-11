@@ -246,7 +246,7 @@ poppler-qt5
 #chromium
 #darktable
 #deadbeef
-dmenu
+#dmenu
 #evolution
 feh
 firefox
@@ -264,11 +264,11 @@ imagemagick
 #lshw
 #meld
 #micro
-nitrogen
+#nitrogen
 numlockx
 #pragha
 #qbittorrent
-scrot
+#scrot
 #simplescreenrecorder
 #termite
 variety
@@ -303,20 +303,20 @@ ttf-ubuntu-font-family
 ###themes
 #adapta-gtk-theme
 arc-gtk-theme
-arc-darkest-theme-git
+#arc-darkest-theme-git
 kvantum-qt5-git
 #kvantum-qt6-git
 #openbox-arc-git
 
 ###utilities
 arandr
-asciinema
+#asciinema
 bash-completion
 #baobab
 bat
 #catfish
 #cronie
-dconf-editor
+#dconf-editor
 dex
 #discord
 duf
@@ -369,11 +369,11 @@ qt5ct
 #qt5-webkit
 #powertop
 ripgrep
-rofi
+#rofi
 rxvt-unicode
 #simple-scan
 #shotwell
-speedtest-cli-git
+#speedtest-cli-git
 #telegram-desktop
 #timeshift
 tlp
@@ -388,12 +388,12 @@ w3m
 webkit2gtk
 wmctrl
 xapp
-xdo
-xdotool
-xdg-desktop-portal-gtk
+#xdo
+#xdotool
+#xdg-desktop-portal-gtk
 #yt-dlp
 #youtube-dl
-zenity
+#zenity
 zsh
 zsh-completions
 zsh-syntax-highlighting
@@ -427,7 +427,7 @@ ttf-ms-fonts
 #numix-icon-theme-git
 #numix-circle-icon-theme-git
 #paper-icon-theme
-sardi-icons
+#sardi-icons
 surfn-icons-git
 #surfn-arc-breeze-icons-git
 #zafiro-icon-theme
@@ -442,13 +442,13 @@ mkinitcpio-openswap
 alacritty
 appstream
 appstream-qt5
-archiso
+#archiso
 conky-lua-archers
 downgrade
 #font-manager
 #glxinfo
 #gitahead-bin
-grub-customizer
+#grub-customizer
 hardcode-fixer-git
 inxi
 mintstick-git
@@ -462,7 +462,7 @@ paru-bin
 #peek
 #pulseaudio-equalizer-ladspa
 python-pyparted
-#python-pywal
+python-pywal
 rate-mirrors-bin
 #scour
 #screenkey-git
@@ -493,7 +493,7 @@ yay-bin
 arcolinux-alacritty-git
 arcolinux-arc-kde
 arcolinux-bin-git
-#arcolinux-btop-git
+arcolinux-btop-git
 a-candy-beauty-icon-theme-git
 #arcolinux-common-git
 arcolinux-conky-collection-git
@@ -528,7 +528,7 @@ archlinux-logout-git
 #arcolinux-meta-logout
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
-arcolinux-nitrogen-git
+#arcolinux-nitrogen-git
 #arcolinux-oblogout
 #arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
@@ -560,7 +560,7 @@ arcolinux-systemd-services-git
 archlinux-tweak-tool-git
 arcolinux-variety-git
 arcolinux-variety-autostart-git
-arcolinux-volumeicon-git
+#arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
 #arcolinux-wayfire-profile-git
@@ -700,12 +700,12 @@ arcolinux-dconf-all-desktops-git
 #                                ARCOLINUX CALAMARES
 ###########################################################################
 
-arco-calamares
+#arco-calamares
 #arco-calamares-comp
 #arco-calamares-dev
 #arco-calamares-git
 #arco-calamares-next
-#arco-calamares-wayland
+arco-calamares-wayland
 arcolinux-system-installation-git
 #arcolinux-system-installation-dev-git
 #arcolinuxd-config-live-session-git
@@ -824,7 +824,7 @@ picom
 
 #mugshot
 #menulibre
-volumeicon
+#volumeicon
 
 ###########################################################################
 #                         ARCOLINUX ISO SPECIFIC
@@ -861,7 +861,7 @@ lxappearance
 #lxappearance-gtk3
 #lxappearance-obconf
 #lxappearance-obconf-gtk3
-#lxrandr
+lxrandr
 
 ###########################################################################
 #                                XFCE
@@ -870,19 +870,19 @@ lxappearance
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
 exo
-garcon
+#garcon
 thunar
 thunar-volman
 tumbler
 xfce4-appfinder
-xfce4-panel
-xfce4-power-manager
+#xfce4-panel
+#xfce4-power-manager
 #xfce4-session
-xfce4-settings
+#xfce4-settings
 xfce4-terminal
-xfconf
+#xfconf
 #xfdesktop
-xfwm4
+#xfwm4
 #xfwm4-themes
 
 ### xfce4-goodies group content
@@ -890,9 +890,9 @@ xfwm4
 #mousepad
 #orage
 #parole
-ristretto
+#ristretto
 thunar-archive-plugin
-thunar-media-tags-plugin
+#thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
@@ -910,14 +910,14 @@ thunar-media-tags-plugin
 #xfce4-mpc-plugin
 #xfce4-netload-plugin
 #xfce4-notes-plugin
-xfce4-notifyd
+#xfce4-notifyd
 #xfce4-pulseaudio-plugin
 #xfce4-screensaver
-xfce4-screenshooter
+#xfce4-screenshooter
 #xfce4-sensors-plugin
 #xfce4-smartbookmark-plugin
 #xfce4-systemload-plugin
-xfce4-taskmanager
+#xfce4-taskmanager
 #xfce4-time-out-plugin
 #xfce4-timer-plugin
 #xfce4-verve-plugin
@@ -932,8 +932,76 @@ xfce4-taskmanager
 #                                ISO SPECIFIC
 ###########################################################################
 
-#desktop specific
-sxhkd
-newm-atha-git
-ttf-jetbrains-mono-nerd
+###########################################################################
+#                                COMMON WAYLAND
+###########################################################################
+
+arcolinux-foot-git
+arcolinux-kitty-git
+arcolinux-nwg-drawer-git
 arcolinux-powermenu-git
+arcolinux-rofi-git
+arcolinux-rofi-themes-git
+arcolinux-wallpapers-wayfire-git
+arcolinux-wayland-app-hooks-git
+arcolinux-xfce-git
+
+azote
+btop
+clipman
+feh
+foot
+gammastep
+grim
+grimshot
+hyprpicker-git
+inetutils
+kitty
+libdisplay-info
+mako
+micro
+nomacs-qt6-git
+nwg-drawer-bin
+nwg-look
+pamixer
+rofi-lbonn-wayland-only-git
+slurp
+swaybg
+swayidle
+swaylock
+swww
+ttf-jetbrains-mono-nerd
+waybar
+waycheck
+waycheck
+wf-recorder-git
+wl-clipboard
+wlogout
+wlr-randr
+wofi
+xdg-desktop-portal
+xdg-desktop-portal-wlr
+
+## wayfire
+#arcolinux-wayfire-git
+#wayfire-git
+#wayfire-plugins-extra-git
+#wcm-git
+#wf-kill-git
+#wf-shell-git
+#libliftoff
+
+## sway
+#sway-git
+#wlroots-git
+#swaybg-git
+#wlprop
+
+## hyprland
+#hyprland-git
+#waybar-hyprland-git
+
+## newm
+newm-atha-git
+sxhkd
+ttf-jetbrains-mono-nerd
