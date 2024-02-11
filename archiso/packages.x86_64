@@ -494,7 +494,7 @@ arcolinux-alacritty-git
 arcolinux-arc-kde
 arcolinux-bin-git
 #arcolinux-btop-git
-#a-candy-beauty-icon-theme-git
+a-candy-beauty-icon-theme-git
 #arcolinux-common-git
 arcolinux-conky-collection-git
 #arcolinux-conky-collection-plasma-git
@@ -505,8 +505,8 @@ arcolinux-desktop-trasher-git
 arcolinux-fonts-git
 #arcolinux-geany-git
 arcolinux-grub-theme-vimix-git
-#arcolinux-gtk3-arcolinux-candy-beauty-git
-arcolinux-gtk3-sardi-arc-git
+arcolinux-gtk3-arcolinux-candy-beauty-git
+#arcolinux-gtk3-sardi-arc-git
 #arcolinux-gtk3-surfn-arc-git
 #arcolinux-gtk3-surfn-arc-breeze-git
 #arcolinux-gtk3-surfn-plasma-dark-git
@@ -599,8 +599,8 @@ arcolinux-zsh-git
 #arcolinux-kodi-git
 #arcolinux-lxqt-git
 #arcolinux-mate-git
-#arcolinux-newm-git
-arcolinux-nimdow-git
+arcolinux-newm-git
+#arcolinux-nimdow-git
 #arcolinux-openbox-git
 #arcolinux-openboxb-git
 #arcolinux-openbox-xtended-git
@@ -768,8 +768,8 @@ adobe-source-han-sans-cn-fonts
 #arcob-calamares-config-lxqt-git
 #arcob-calamares-config-marswm-git
 #arcob-calamares-config-mate-git
-#arcob-calamares-config-newm-git
-arcob-calamares-config-nimdow-git
+arcob-calamares-config-newm-git
+#arcob-calamares-config-nimdow-git
 #arcob-calamares-config-openbox-git
 #arcob-calamares-config-pantheon-git
 #arcob-calamares-config-plasma-git
@@ -934,7 +934,6 @@ xfce4-taskmanager
 
 #desktop specific
 sxhkd
-nimdow-bin
-nim
+newm-atha-git
 ttf-jetbrains-mono-nerd
 arcolinux-powermenu-git
